@@ -1,10 +1,10 @@
 var topic = [
-    "尚未開學",
-    "國定假日",
-    "環境準備",
-    "隨機性",
-    "重複性",
-    "條件判斷",
+    "謝師宴",
+    "導生聚",
+    "親愛的慶生派對",
+    "通識邊緣人聚餐",
+    "同學會",
+    "社團飯局",
 ];
 
 var startDate = new Date();
@@ -18,4 +18,4 @@ function setMonthAndDay(startMonth, startDay)
     startDate.setSeconds(0);
 }
 
-setMonthAndDay(4,1);
+setMonthAndDay(6,20);
