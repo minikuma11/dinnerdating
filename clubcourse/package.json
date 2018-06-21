@@ -1,4 +1,5 @@
 "eslinConfig":{
     "globals":{
+        "window":true
     }
 }
